@@ -1,0 +1,3 @@
+export const people=`silvan.muehlemann
+john.doe
+foo.bar`

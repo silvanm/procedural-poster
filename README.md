@@ -1,4 +1,9 @@
-# poster-markus
+# Procedural Poster
+
+Generates a HTML document. This poster has been saved as PDF
+and printed out as document in format A2
+
+![Result](public/example.png)
 
 ## Project setup
 ```
@@ -19,6 +24,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
